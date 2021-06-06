@@ -3,11 +3,11 @@
 
 
 
-## [front-end](./A.front-end)
+## [front-end](/A.front-end)
 
 > 前端各种小案例，涉及html/css/js/vue/react等等..
 
-## [back-end](./B.back-end)
+## [back-end](/B.back-end)
 
 > 暂无..
 
